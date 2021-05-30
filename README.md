@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceKumar79994
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data analaytics
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
